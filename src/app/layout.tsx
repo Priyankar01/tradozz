@@ -3,12 +3,12 @@ import Footer from '../components/Footer';
 import '@/styles/globals.css';
 
 export const metadata = {
-	title: 'Ghaziabad Kali Bari Samity',
-	description:
-		'A spiritual and cultural destination for devotion, festivals, and community service.',
-	icons: {
-		icon: '/logo.svg', // Make sure the file exists in public/
-	},
+	title: 'Tradozz',
+	// description:
+	// 	'A spiritual and cultural destination for devotion, festivals, and community service.',
+	// icons: {
+	// 	icon: '/logo.svg', // Make sure the file exists in public/
+	// },
 };
 export default function RootLayout({
 	children,
